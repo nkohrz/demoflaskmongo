@@ -1,0 +1,7 @@
+Flask
+pycoingecko
+requests
+Flask-PyMongo
+pymongo
+gunicorn
+
